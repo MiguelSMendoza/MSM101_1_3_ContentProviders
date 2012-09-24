@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ContentProvidersActivity!</string>
+    <string name="app_name">ContentProviders</string>
+    <string name="name">Nombre:</string>
+    <string name="phoneLabel">Teléfono:</string>
+    <string name="nameLabel">Nombre:</string>
+    <string name="logoDescription">NetRunners Logo</string>
+    <string name="addContactMenu">Añadir Contacto</string>
+
+</resources>
